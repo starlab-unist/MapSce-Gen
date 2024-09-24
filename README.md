@@ -1,5 +1,5 @@
 # MapSce-Gen
-Generating Driving Scenario for Autonomous Vehicle
+Testing Diverse Geographical Features of Autonomous Driving Systems
 
 ## Installation
 
@@ -50,4 +50,4 @@ After running the scenario, we can check the results in the artifact directory, 
 
 ## Customize / Experiment
 
-If you want to set other option of NPC, please edit `Concretization/Complicator.py`.
+If you want to set other options of NPC, please edit `Concretization/Complicator.py`.
