@@ -51,3 +51,7 @@ After running the scenario, we can check the results in the artifact directory, 
 ## Customize / Experiment
 
 If you want to set other options of NPC, please edit `Concretization/Complicator.py`.
+
+## Reference
+
+This project partially utilizes code provided by Minsu Kim from Korea University, specifically for the co-simulation of Autoware with Carla (See files in the path AD/Autoware for details).
