@@ -38,7 +38,7 @@ Please add your high-definition map to path, `InputGeneration/csv/`.
 python3 generate_seed.py
 ```
 
-2. Run ScenaVRo
+2. Run MapSce-Gen
  
 ```shell
 python3 fuzz.py
